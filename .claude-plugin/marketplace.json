@@ -1,0 +1,25 @@
+{
+  "name": "apexgenius-skills",
+  "description": "ApexGenius agent skills for Claude Code: SEO on your Search Console data, app skills, and marketing skills.",
+  "owner": {
+    "name": "ApexGenius",
+    "url": "https://www.apexgenius.ai"
+  },
+  "plugins": [
+    {
+      "name": "apexgenius-seo",
+      "source": "./plugins/apexgenius-seo",
+      "description": "SEO skills for Claude, Codex and Cursor that run on your Search Console data: weekly review, page-two fixes, titles and descriptions, indexing after a release."
+    },
+    {
+      "name": "apexgenius-apps",
+      "source": "./plugins/apexgenius-apps",
+      "description": "App skills for Claude, Codex and Cursor that run on your connected Google Ads, Salesforce, Gmail, Google Calendar, Jira, Apollo, n8n, Google Sheets and OP.GG data."
+    },
+    {
+      "name": "apexgenius-marketing",
+      "source": "./plugins/apexgenius-marketing",
+      "description": "Marketing skills for Claude, Codex and Cursor: ad hooks, the four-angle ad pitch and the call to action. No app needed."
+    }
+  ]
+}

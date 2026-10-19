@@ -1,0 +1,24 @@
+{
+  "name": "apexgenius-apps",
+  "description": "App skills for Claude, Codex and Cursor that run on your connected Google Ads, Salesforce, Gmail, Google Calendar, Jira, Apollo, n8n, Google Sheets and OP.GG data.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ApexGenius",
+    "url": "https://www.apexgenius.ai"
+  },
+  "homepage": "https://www.apexgenius.ai/agent-skills",
+  "repository": "https://github.com/ApexGeniusOrg/skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "agent-skills",
+    "google-ads",
+    "salesforce",
+    "gmail",
+    "jira",
+    "apollo",
+    "n8n",
+    "google-sheets",
+    "league-of-legends"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "apexgenius-marketing",
+  "description": "Marketing skills for Claude, Codex and Cursor: ad hooks, the four-angle ad pitch and the call to action. No app needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ApexGenius",
+    "url": "https://www.apexgenius.ai"
+  },
+  "homepage": "https://www.apexgenius.ai/agent-skills",
+  "repository": "https://github.com/ApexGeniusOrg/skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "agent-skills",
+    "marketing",
+    "ad-copy",
+    "copywriting",
+    "cta"
+  ]
+}

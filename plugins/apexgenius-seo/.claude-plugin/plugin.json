@@ -1,0 +1,21 @@
+{
+  "name": "apexgenius-seo",
+  "description": "SEO skills for Claude, Codex and Cursor that run on your Search Console data: weekly review, page-two fixes, titles and descriptions, indexing after a release.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ApexGenius",
+    "url": "https://www.apexgenius.ai"
+  },
+  "homepage": "https://www.apexgenius.ai/agent-skills/seo",
+  "repository": "https://github.com/ApexGeniusOrg/skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "agent-skills",
+    "seo",
+    "search-console",
+    "google-search-console",
+    "indexing",
+    "meta-description"
+  ]
+}
